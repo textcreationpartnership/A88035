@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter to Mr. Marriot from a friend of his: wherein his name is redeemed form that detraction G.F. Gent. hath indeavoured to fasten upon him, by a scandalous and defamatory libell, intituled The great eater of Grayes Inne, or, the life of Mr. Marriot the cormorant, &amp;c.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88035</idno>
+            <idno type="STC">Wing L1715</idno>
+            <idno type="STC">Thomason E674_1</idno>
+            <idno type="STC">ESTC R207185</idno>
+            <idno type="EEBO-CITATION">99866255</idno>
+            <idno type="PROQUEST">99866255</idno>
+            <idno type="VID">166268</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88035)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166268)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 103:E674[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter to Mr. Marriot from a friend of his: wherein his name is redeemed form that detraction G.F. Gent. hath indeavoured to fasten upon him, by a scandalous and defamatory libell, intituled The great eater of Grayes Inne, or, the life of Mr. Marriot the cormorant, &amp;c.</title>
+               </titleStmt>
+               <extent>[6], 41, [1] p. : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for the friends of Mr. Marriot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Fidge, George.  The great eater of Grayes-Inne, or The life of Mr. Marriot the cormorant.</note>
+                  <note>Annotation on Thomason copy: "August. 16.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fidge, George. --  Great eater of Grayes-Inne, or The life of Mr. Marriot the cormorant.</term>
+               <term>Marriott, John, d. 1653.</term>
+               <term>Food habits --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:166268:1"/>
+            <!-- PDF PAGE 67 -->
+            <p>
+               <figure>
+                  <p>G. F. gent</p>
+                  <sp>
+                     <p>Doo As You Would be Don Vnto</p>
+                  </sp>
+               </figure>
+            </p>
+            <l>Oh I confeſſe my fault, forgive therefore</l>
+            <l>Good Mr. <hi>Marriot,</hi> Ile doe no more!</l>
+            <l>I have dear bought Repentance, 'tis ſo ſcarce,</l>
+            <l>And ſeale it with my lips thus on your ar—</l>
+            <l>If once again to wrong you, I turne Foole,</l>
+            <l>Then make my mouth for ever your cloſe ſtoole.</l>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:166268:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 66 -->
+            <p>A LETTER TO M<hi rend="sup">R.</hi> MARRIOT from a friend of his: WHEREIN His Name is redeemed from that De<g ref="char:EOLhyphen"/>traction <hi>G. F. Gent.</hi> hath indeavoured to faſten upon him, by a ſcandalous and De<g ref="char:EOLhyphen"/>famatory LIBELL, <hi>INTIT<g ref="char:V">Ʋ</g>LED</hi> The Great Eater of <hi>Grayes Inne,</hi> or, The Life of Mr. <hi>Marriot</hi> the <hi>Cormorant, &amp;c.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for the Friends of Mr. <hi>Marriot,</hi> 1652</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:166268:2"/>
+            <!-- PDF PAGE 68 -->
+            <pb n="5" facs="tcp:166268:2"/>
+            <!-- PDF PAGE 68 -->
+            <head>A Letter to Mr. <hi>Marriot,</hi> from a Friend of his, wherein his name is redeemed from Detraction.</head>
+            <opener>
+               <salute>Mr. Marriot,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Ad I not known you my ſelf as well as by the report of your neighbours, a common eaſineſſe of credulity might have carryed me on to beleeve a late publiſht pamphlet, pretended to be the <hi>True Hiſtory of your life,</hi> for the Authour aſſures the Reader he ſets down nothing but what hath truly been acted by you: whereas indeed, it is nothing elſe but a meer Libell, of Lyes, Scan<g ref="char:EOLhyphen"/>dall and Defamation, ſpun out to a great length without one ſyllable of wit or honeſty, where<g ref="char:EOLhyphen"/>of he ſufficiently accuſeth himſelf by ſhroud<g ref="char:EOLhyphen"/>ing his name under the covert of two Letters, and thereby ſecuring his perſon from that pu<g ref="char:EOLhyphen"/>niſhment the Law hath provided for him, the injury of faſtening upon your name ſo vile a detraction, and preſenting you a deriſion to
+<pb n="6" facs="tcp:166268:3"/>
+               <!-- PDF PAGE 69 -->poſterity is of ſo high a nature that it exceeds any ſatisfaction ſuch an abject vermin can give, neither can I find out a better expedient for your reparation, then by leting the world know what you are indeed: and this I ſhall do as an equall friend to you and the truth.</p>
+            <p>That you are a Gown-man, and the moſt an<g ref="char:EOLhyphen"/>tient Member of the Honourable Society of <hi>Grayes Inne</hi> now Reſident, the book of En<g ref="char:EOLhyphen"/>trance can witneſſe, having been a Student and Profeſſor of the Law above 47 years: for your abilities and knowledge in the Law, and for your eaſie fees, your Clients doe very much commend you: For your private way of life, you have given it a Geometricall proportion, ſquaring your mind and fortune with equall lines to a fit ſubſervency of Natures requiſites in food and rayment: For your Society you have made choyce of honeſt men, not deſpiſing the meaneſt, whereby you have ſtood firm in theſe Nationall <hi>Hurricanoes</hi> which have blown down the lofty and ambitious: and for your generall deportment, it hath been ſo fair and clear, that I never yet heard you had wronged any man.</p>
+            <pb n="7" facs="tcp:166268:3"/>
+            <!-- PDF PAGE 69 -->
+            <p>How comes it then this unprovoked miſcre<g ref="char:EOLhyphen"/>ant ſhould bewray the preſſe, and ſoile your name with the excrements of his skull? Sure his maine deſigne is a beggerly project, the ſale of his book: Let him have the full price of it, and it is a Whipping-poſt, &amp;c. that he fears, and therefore conceales himſelf under the Cha<g ref="char:EOLhyphen"/>racters of G. F. <hi>Gent.</hi> Homogeneouſly inſinua<g ref="char:EOLhyphen"/>ting his name to be <hi>Graceleſſe Foole Gentile.</hi> For had he not been a very graceleſſe foole, and an unconverted Gentile, he would never have committed to perpetuity ſo ſcandalous a piece, compoſed of lyes and nonſence, and that for a very little money, ſoone to be ſpent; in due time he will have a juſt reward: for he ſerves a Maſter, though a Lyer from the beginning, yet faithfull in paying his ſervants their wages. In the interim let him ſtand to the publike view in that becomming poſture the Frontiſpiece preſents him, as deſtined by charity to repen<g ref="char:EOLhyphen"/>tance.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
